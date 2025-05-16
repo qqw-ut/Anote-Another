@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title='Aote/Another Exercise')
+st.set_page_config(page_title='Anote/Another Exercise')
 st.title('Inventory Proposal Automation')
 st.markdown("""
 ### Welcome!
